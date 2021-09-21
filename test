@@ -1,1 +1,7 @@
 
+public class testdriver {
+    public static String main(String[] args) {
+       Chair productchair= new Chair();
+        System.out.println(productchair);
+    }
+}
